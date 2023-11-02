@@ -6,7 +6,7 @@ Hi 👋, I'm Tulika, Software Developer based in Kolkata, India. I have 5 years 
 I am an avid advocate of TDD and always promote writting code that is Unit Testable.
 
 
-- 🔭 I’m currently working in <a href="https://www.hyland.com/en">Hyland</a> as a Developer 3<br />
+- 🔭 I’m currently working in <a href="https://www.hyland.com/en">Hyland</a> as a Developer 4<br />
 - 🌱 I’m currently learning .NET Core with Microservices<br />
 - 💬 Ask me about Angular, Unit Testing and anything geeky<br />
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tulika-chowdhury-181a645b/" target="blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;&nbsp;&nbsp; 
